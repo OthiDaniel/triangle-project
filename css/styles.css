@@ -8,7 +8,7 @@ h1 {
    color: rgb(255, 0, 0);
 }
 p {
-   color: brown
+   color: maroon
    padding:70px;
    margin:50px;
    background-color: brown;
@@ -25,7 +25,7 @@ h2{
    text-align: center;
    padding: 15px;
    background-color: rgb(255, 255, 255);
-   color: #00FFFF;
+   color: green;
    margin: 104px;
    border-radius: 49px;
    opacity: .8;
