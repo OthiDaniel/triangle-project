@@ -5,16 +5,15 @@ h1 {
    padding: 20px;
    margin: 20px;
    border-radius: 40px;
-   color: rgb(255, 0, 0);
+   color: green;
 }
 p {
-   color: brown
+   color: maroon
    padding:70px;
    margin:50px;
-   background-color: green;
+   background-color: maroon;
    border-radius: 122px;
-   padding: 19px;
-   opacity: .9;
+
 }
 body {
    color: aliceblue;
@@ -25,7 +24,7 @@ h2{
    text-align: center;
    padding: 15px;
    background-color: rgb(255, 255, 255);
-   color: #00FFFF;
+   color: lime;
    margin: 104px;
    border-radius: 49px;
    opacity: .8;
